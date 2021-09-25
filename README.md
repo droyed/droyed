@@ -89,8 +89,23 @@
 
 ![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=dark)
 
+![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=radical)
 
-[![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed)](https://github.com/anuraghazra/github-readme-stats)
+![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=merko)
+
+![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=gruvbox)
+
+![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=tokyonight)
+
+![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=onedark)
+
+![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=cobalt)
+
+![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=synthwave)
+
+![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=highcontrast)
+
+![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=dracula)
 
 
 [website]: https://codeSTACKr.com
