@@ -10,7 +10,7 @@
 
 ![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=merko)
 
-**[Stackoverflow Profile & Tags](https://stackoverflow.com/users/3293881/divakar)**
+### Stackoverflow Profile & Tags
 
 <a href="https://stackoverflow.com/users/3293881/divakar"><img src="https://stackoverflow.com/users/flair/3293881.png?theme=dark" width="208" height="58" alt="profile for Divakar at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Divakar at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
