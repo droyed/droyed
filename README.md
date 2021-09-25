@@ -87,6 +87,9 @@
 </details>
 
 
+![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=dark)
+
+
 [![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed)](https://github.com/anuraghazra/github-readme-stats)
 
 
