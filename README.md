@@ -10,7 +10,7 @@
 
 ![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=droyed&langs_count=8)](https://github.com/droyed/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=droyed&langs_count=8)](https://github.com/droyed)
 
 
 ### Stackoverflow Profile & Tags
