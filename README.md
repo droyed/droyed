@@ -20,7 +20,7 @@
 
 <a href="https://stackexchange.com/users/3996536"><img src="https://stackexchange.com/users/flair/3996536.png?theme=dark" width="208" height="58" alt="profile for Divakar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Divakar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-<a href="https://www.mathworks.com/matlabcentral/profile/authors/870163"><img src="https://raw.githubusercontent.com/droyed/droyed/master/icons/mathworks2.png" alt="profile for Divakar on MATLAB Central, a network of MATLAB people sharing their work" title="profile for Divakar on MATLAB Central, a network of MATLAB people sharing their work"></a>
+<a href="https://www.mathworks.com/matlabcentral/profile/authors/870163"><img src="https://raw.githubusercontent.com/droyed/droyed/master/icons/mathworks.png" alt="profile for Divakar on MATLAB Central, a network of MATLAB people sharing their work" title="profile for Divakar on MATLAB Central, a network of MATLAB people sharing their work"></a>
 
 
 
