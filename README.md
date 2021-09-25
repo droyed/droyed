@@ -28,8 +28,6 @@ test :
 
 ![Droyed's Stackoverflow tags](https://i.stack.imgur.com/WcN6k.png)
 
-**[Mathworks (MATLAB) Community Profile](https://www.mathworks.com/matlabcentral/profile/authors/870163)**
-
 
 [website]: https://github.com/droyed
 [linkedin]: https://www.linkedin.com/in/droyed/
