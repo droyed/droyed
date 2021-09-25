@@ -86,10 +86,9 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=radical)
-</details>
+
+[![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
