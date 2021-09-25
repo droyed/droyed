@@ -24,7 +24,7 @@ test :
 
 ![image1](https://raw.githubusercontent.com/droyed/droyed/master/icons/mathworks2.png)
 
-<a href="https://google.com"><img src="https://raw.githubusercontent.com/droyed/droyed/master/icons/mathworks2.png" alt="profile for Divakar on MATLAB Central, a network of MATLAB people sharing their work" title="profile for Divakar at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://google.com"><img src="https://raw.githubusercontent.com/droyed/droyed/master/icons/mathworks2.png" alt="profile for Divakar on MATLAB Central, a network of MATLAB people sharing their work" title="profile for Divakar on MATLAB Central, a network of MATLAB people sharing their work"></a>
 
 ![Droyed's Stackoverflow tags](https://i.stack.imgur.com/WcN6k.png)
 
