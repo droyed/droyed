@@ -12,9 +12,9 @@
 
 **[Stackoverflow](https://stackoverflow.com/users/3293881/divakar) Tags**
 
-<a href="https://stackoverflow.com/users/3293881/divakar"><img src="https://stackoverflow.com/users/flair/3293881.png?theme=dark" width="208" height="58" alt="Divakar at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Divakar at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/3293881/divakar"><img src="https://stackoverflow.com/users/flair/3293881.png?theme=dark" width="208" height="58" alt="profile for Divakar at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Divakar at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-<a href="https://stackexchange.com/users/3996536"><img src="https://stackexchange.com/users/flair/3996536.png?theme=dark" width="208" height="58" alt="Divakar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Divakar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/3996536"><img src="https://stackexchange.com/users/flair/3996536.png?theme=dark" width="208" height="58" alt="profile for Divakar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Divakar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
 
