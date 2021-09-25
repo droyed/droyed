@@ -89,7 +89,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  ![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=merko)
+  [Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=merko)
 </details>
 
 
