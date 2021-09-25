@@ -16,7 +16,7 @@
 
 **[Stackexchange Profile](https://stackexchange.com/users/3996536/divakar)**
 
-<a href="https://stackexchange.com/users/3996536"><img src="https://stackexchange.com/users/flair/3996536.png?theme=dark" width="208" height="58" alt="profile for Divakar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Divakar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/3996536"><img src="https://stackexchange.com/users/flair/3996536.png?theme=dark" alt="profile for Divakar on MATLAB Central, a network of MATLAB people sharing their work" title="profile for Divakar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 **Stackoverflow Tags**
 
