@@ -6,7 +6,6 @@
 [<img align="left" alt="droyed | LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
 
 <br />
-----
 
 ![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=merko)
 
