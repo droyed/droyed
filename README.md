@@ -1,4 +1,4 @@
-### Hi there, I'm Divakar ROY - aka [d-roy-ed][website] 👋
+### Hi there, I'm Divakar Roy - aka [d-roy-ed][website] 👋
 
 ### Connect with me:
 
