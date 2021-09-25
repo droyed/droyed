@@ -10,6 +10,8 @@
 
 ![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=merko)
 
+**Divakar Roy's Stackoverflow tags**
+
 ![Droyed's Stackoverflow tags](https://i.stack.imgur.com/WcN6k.png)
 
 
