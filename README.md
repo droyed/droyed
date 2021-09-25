@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="droyed" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][website]
+[<img align="left" alt="droyed" width="22px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][website]
 [<img align="left" alt="droyed | LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
 
 <br />
