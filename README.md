@@ -87,25 +87,10 @@
 </details>
 
 
-![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=dark)
-
-![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=radical)
-
-![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=merko)
-
-![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=gruvbox)
-
-![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=tokyonight)
-
-![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=onedark)
-
-![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=cobalt)
-
-![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=synthwave)
-
-![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=highcontrast)
-
-![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=dracula)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  ![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=merko)
+</details>
 
 
 [website]: https://codeSTACKr.com
