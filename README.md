@@ -1,10 +1,16 @@
 ### Hi there, I'm Divakar Roy - aka [d-roy-ed][website] 👋
 
+- Tensorflow, Tensorflow-js, Fastai, keras, scikit-learn
+- NumPy
+- Pandas
+
 ### Connect with me
 
 [<img align="left" alt="droyed" width="22px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][website]
 [<img align="left" alt="droyed | LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
 <br />
+
+### Interest aeas
 
 ### Languages and Tools
 
