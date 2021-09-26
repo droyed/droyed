@@ -44,7 +44,8 @@
 
 ### Operating System
 
-<img align="left" alt="Ubuntu" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ubuntu1.png" />
+<img align="left" alt="Ubuntu" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ubuntu.png" />
+<img align="left" alt="Manjaro" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/manjaro.png" />
 
 <br />
 <br />
