@@ -20,6 +20,9 @@
 
 <img align="left" alt="NumPy" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/numpy.png" />
 
+<br />
+<br />
+
 
 ### IDE
 
