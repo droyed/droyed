@@ -23,7 +23,7 @@
 
 - <img align="left" alt="Scientific-computing" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/sc.png" /> NumPy, SciPy, scikit-image, opencv
 
-- <img align="left" alt="Data-science" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ds3.png" /> Pandas, matplotlib
+- <img align="left" alt="Data-science" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ds3.png" /> Pandas, matplotlib, seaborn
 
 
 ### IDE
