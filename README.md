@@ -6,6 +6,11 @@
 [<img align="left" alt="droyed | LinkedIn" width="32px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
 <br />
 
+### General Interest Areas
+
+* Problem solving
+* Automation
+
 ### Languages and Tools
 
 <img align="left" alt="Python" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/python-logo-generic.png" />
