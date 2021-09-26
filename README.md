@@ -28,19 +28,19 @@
 <br />
 <br />
 
-
 ### Regular Py-Modules
 
 - <img align="left" alt="Machine-learning" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ml.jpeg" /> Tensorflow, Tensorflow-js, Fastai, keras, scikit-learn
 - <img align="left" alt="Scientific-computing" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/sc.png" /> NumPy, SciPy, scikit-image, opencv
 - <img align="left" alt="Data-science" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ds.png" /> Pandas, matplotlib, seaborn
 
-
 ### IDE
 
 <img align="left" alt="Spyder" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/spyder.png" />
 <img align="left" alt="Jupyter" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/jupyter.png" />
 <img align="left" alt="Visual Studio Code" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/vs.png" /> 
+<br />
+<br />
 
 ### Operating System
 
