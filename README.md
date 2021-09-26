@@ -23,7 +23,7 @@
 <img align="left" alt="Nano-editor" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/gnu-nano-4.0.png" />
 <img align="left" alt="Git" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/git.png" />
 <img align="left" alt="Docker" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/docker.png" />
-<img align="left" alt="AWS" height="32px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
+<img align="left" alt="AWS" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/aws.png" />
 <br />
 <br />
 <br />
