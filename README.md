@@ -20,7 +20,7 @@
 
 ### IDE
 
-<img align="left" alt="Jupyter" width="50" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/jupyter.svg" />
+<img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/jupyter.svg" />
 
 <br />
 <br />
