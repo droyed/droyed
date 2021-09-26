@@ -21,6 +21,7 @@
 ### IDE
 
 <img align="left" alt="Jupyter" width="52px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/jupyter.svg" />
+<img align="left" alt="Jupyter" width="52px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/spyder.png" />
 
 <br />
 <br />
