@@ -21,10 +21,6 @@
 <img align="left" alt="Terminator" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/terminator.png" />
 <img align="left" alt="Sublime-text" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/Sublime_Text_Logo.png" />
 <img align="left" alt="Nano-editor" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/gnu-nano-4.0.png" />
-<br />
-<br />
-<br />
-
 <img align="left" alt="Git" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/git.png" />
 <img align="left" alt="Docker" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/docker1.png" />
 <img align="left" alt="AWS" height="32px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
