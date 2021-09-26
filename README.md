@@ -20,7 +20,7 @@
 
 ### IDE
 
-<img align="left" alt="AWS" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
+<img align="left" alt="Jupyter" width="50" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/jupyter.svg" />
 <br />
 <br />
 
