@@ -42,6 +42,10 @@
 <img align="left" alt="Jupyter" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/jupyter.png" />
 <img align="left" alt="Visual Studio Code" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/vs.png" /> 
 
+### Operating System
+
+<img align="left" alt="Ubuntu" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ubuntu.png" />
+
 <br />
 <br />
 
