@@ -5,7 +5,11 @@
 <br />
 
 - <img align="left" alt="Spyder" width="80px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/sc.png" /> NumPy, scikit-image
-- Pandas
+
+<br />
+
+- <img align="left" alt="Spyder" width="80px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ds.png" /> Pandas
+
 
 ### Connect with me
 
