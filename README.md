@@ -1,8 +1,8 @@
 ### Hi there, I'm Divakar Roy - aka [d-roy-ed][website] 👋
 
-- <img align="left" alt="Spyder" width="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ml.png" /> Tensorflow, Tensorflow-js, Fastai, keras, scikit-learn
+- <img align="left" alt="Spyder" width="80px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ml.png" /> Tensorflow, Tensorflow-js, Fastai, keras, scikit-learn
 
-- <img align="left" alt="Spyder" width="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/sc.png" /> NumPy, scikit-image
+- <img align="left" alt="Spyder" width="80px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/sc.png" /> NumPy, scikit-image
 - Pandas
 
 ### Connect with me
