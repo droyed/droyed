@@ -4,7 +4,7 @@
 
 - <img align="left" alt="Scientific-computing" width="80px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/sc.png" /> NumPy, scikit-image
 
-- <img align="left" alt="Data-science" width="80px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ds.png" /> Pandas
+- <img align="left" alt="Data-science" width="80px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ds2.png" /> Pandas
 
 <br />
 
