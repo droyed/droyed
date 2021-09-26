@@ -22,7 +22,7 @@
 <img align="left" alt="Sublime-text" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/Sublime_Text_Logo.png" />
 <img align="left" alt="Nano-editor" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/gnu-nano-4.0.png" />
 <img align="left" alt="Git" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/git.png" />
-<img align="left" alt="Docker" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/docker1.png" />
+<img align="left" alt="Docker" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/docker.png" />
 <img align="left" alt="AWS" height="32px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
 <br />
 <br />
@@ -31,9 +31,9 @@
 
 ### Regular Py-Modules
 
-- <img align="left" alt="Machine-learning" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ml2.jpeg" /> Tensorflow, Tensorflow-js, Fastai, keras, scikit-learn
+- <img align="left" alt="Machine-learning" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ml.jpeg" /> Tensorflow, Tensorflow-js, Fastai, keras, scikit-learn
 - <img align="left" alt="Scientific-computing" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/sc.png" /> NumPy, SciPy, scikit-image, opencv
-- <img align="left" alt="Data-science" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ds3.png" /> Pandas, matplotlib, seaborn
+- <img align="left" alt="Data-science" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ds.png" /> Pandas, matplotlib, seaborn
 
 
 ### IDE
