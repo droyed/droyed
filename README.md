@@ -17,7 +17,7 @@
 <br />
 <br />
 
-### Py-Modules
+### Py-Modules (regular usage)
 
 - <img align="left" alt="Machine-learning" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ml2.jpeg" /> Tensorflow, Tensorflow-js, Fastai, keras, scikit-learn
 
