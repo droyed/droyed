@@ -11,7 +11,7 @@
 * Problem solving
 * Automation
 * Computer vision
-* Performance
+* Performance, parallel-computing
 
 ### Languages and Tools
 
