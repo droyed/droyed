@@ -8,19 +8,19 @@
 
 ### Languages and Tools
 
-<img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/python-logo-generic.png" />
-<img align="left" alt="Bash" height="30px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/Gnu-bash-logo.svg" />
-<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Docker" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="AWS" height="30px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
+<img align="left" alt="Python" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/python-logo-generic.png" />
+<img align="left" alt="Bash" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/Gnu-bash-logo.svg" />
+<img align="left" alt="Terminal" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Docker" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Git" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="AWS" height="32px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
 <br />
 
 ### IDE
 
-<img align="left" alt="Jupyter" height="30px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/jupyter.svg" />
-<img align="left" alt="Jupyter" height="30px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/spyder.png" />
-<img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+<img align="left" alt="Spyder" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/spyder.png" />
+<img align="left" alt="Jupyter" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/jupyter.svg" />
+<img align="left" alt="Visual Studio Code" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 
 <br />
 <br />
