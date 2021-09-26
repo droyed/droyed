@@ -12,6 +12,7 @@
 * Automation
 * Computer vision
 * Performance, parallel-computing
+* Open-source
 
 ### Languages and Tools
 
