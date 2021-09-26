@@ -20,7 +20,7 @@
 
 <img align="left" alt="Spyder" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/spyder.png" />
 <img align="left" alt="Jupyter" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/jupyter.svg" />
-<img align="left" alt="Visual Studio Code" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/pp1.png" /> 
+<img align="left" alt="Visual Studio Code" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/vs.png" /> 
 
 <br />
 <br />
