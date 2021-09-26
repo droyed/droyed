@@ -1,18 +1,5 @@
 ### Hi there, I'm Divakar Roy - aka [d-roy-ed][website] 👋
 
-
-### Modules
-
-- <img align="left" alt="Machine-learning" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ml2.jpeg" /> Tensorflow, Tensorflow-js, Fastai, keras, scikit-learn
-
-- <img align="left" alt="Scientific-computing" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/sc.png" /> NumPy, scikit-image
-
-- <img align="left" alt="Data-science" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ds3.png" /> Pandas
-
-<br />
-
-- <img align="left" alt="Visualization-graphs-plots" width="80px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ds.png" /> Pandas
-
 ### Connect with me
 
 [<img align="left" alt="droyed" width="22px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][website]
@@ -29,6 +16,15 @@
 <img align="left" alt="AWS" height="32px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
 <br />
 <br />
+
+### Py-Modules
+
+- <img align="left" alt="Machine-learning" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ml2.jpeg" /> Tensorflow, Tensorflow-js, Fastai, keras, scikit-learn
+
+- <img align="left" alt="Scientific-computing" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/sc.png" /> NumPy, scikit-image
+
+- <img align="left" alt="Data-science" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ds3.png" /> Pandas
+
 
 ### IDE
 
