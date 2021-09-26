@@ -18,6 +18,13 @@
 <br />
 <br />
 
+### IDE
+
+<img align="left" alt="AWS" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
+<br />
+<br />
+
+
 ![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=droyed&layout=compact&theme=merko)](https://github.com/droyed)
 
 
