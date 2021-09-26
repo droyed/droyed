@@ -25,7 +25,6 @@
 
 <br />
 <br />
-<br />
 
 ### Community Profiles
 
