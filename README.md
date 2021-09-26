@@ -10,9 +10,9 @@
 
 <img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/python-logo-generic.png" />
 <img align="left" alt="Bash" height="30px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/Gnu-bash-logo.svg" />
+<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Docker" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="AWS" height="30px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
 <br />
 
