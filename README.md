@@ -10,6 +10,8 @@
 
 * Problem solving
 * Automation
+* Computer vision
+* Performance
 
 ### Languages and Tools
 
