@@ -56,6 +56,11 @@
 
 ![Droyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyed&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=droyed&layout=compact&theme=merko)](https://github.com/droyed)
 
+#### Stackoverflow tags
+
+<img align="left" alt="Ubuntu" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/so_tagcloud.png" />
+
+
 
 [website]: https://github.com/droyed
 [linkedin]: https://www.linkedin.com/in/droyed/
