@@ -40,6 +40,8 @@
 
 <img align="left" alt="AWS" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/aws.png" />
 
+<br>
+
 ### Regular Py-Modules
 
 <img align="left" alt="Machine-learning" width="80px" height="25px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/ml.jpeg" /> Tensorflow, Tensorflow-js, Fastai, keras, scikit-learn
