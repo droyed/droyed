@@ -6,6 +6,10 @@
 [<img align="left" alt="droyed | LinkedIn" width="32px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
 <br />
 
+### Communities
+
+<a href="https://stackoverflow.com/users/3293881/divakar"><img src="https://stackoverflow.com/users/flair/3293881.png?theme=dark" width="208" height="58" alt="profile for Divakar at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Divakar at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> &nbsp; <a href="https://stackexchange.com/users/3996536"><img src="https://stackexchange.com/users/flair/3996536.png?theme=dark" width="208" height="58" alt="profile for Divakar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Divakar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> &nbsp; <a href="https://www.mathworks.com/matlabcentral/profile/authors/870163"><img src="https://raw.githubusercontent.com/droyed/droyed/master/icons/matlab.png" height="58" alt="profile for Divakar on MATLAB Central, a network of MATLAB people sharing their work" title="profile for Divakar on MATLAB Central, a network of MATLAB people sharing their work"></a>
+
 ### General Interest Areas
 
 * Problem solving
@@ -51,10 +55,6 @@
 
 <br />
 <br />
-
-### Communities
-
-<a href="https://stackoverflow.com/users/3293881/divakar"><img src="https://stackoverflow.com/users/flair/3293881.png?theme=dark" width="208" height="58" alt="profile for Divakar at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Divakar at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> &nbsp; <a href="https://stackexchange.com/users/3996536"><img src="https://stackexchange.com/users/flair/3996536.png?theme=dark" width="208" height="58" alt="profile for Divakar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Divakar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> &nbsp; <a href="https://www.mathworks.com/matlabcentral/profile/authors/870163"><img src="https://raw.githubusercontent.com/droyed/droyed/master/icons/matlab.png" height="58" alt="profile for Divakar on MATLAB Central, a network of MATLAB people sharing their work" title="profile for Divakar on MATLAB Central, a network of MATLAB people sharing their work"></a>
 
 ### Stackoverflow tags
 
