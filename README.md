@@ -60,6 +60,9 @@
 
 <img align="left" alt="Stackoverflow tags" width="1500px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/so_tagcloud.png" />
 
+<img align="left" alt="Stackoverflow tags" width="1500px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/so_tagcloud2.png" />
+
+<img align="left" alt="Stackoverflow tags" width="1500px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/so_tagcloud3.png" />
 
 
 [website]: https://github.com/droyed
