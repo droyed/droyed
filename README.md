@@ -33,7 +33,7 @@
 <img align="left" alt="Docker" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/docker.png" />
 <img align="left" alt="AWS" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/aws.png" />
 
-&nbsp;
+----
 
 ### Regular Py-Modules
 
