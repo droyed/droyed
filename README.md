@@ -14,12 +14,11 @@
 
 ### General Interest Areas
 
-**Problem solving**
-**Automation**
-
-#### Computer vision
-#### Performance, parallel-computing
-#### Open-source
+* Problem solving
+* Automation
+* Computer vision
+* Performance, parallel-computing
+* Open-source
 
 ----
 
