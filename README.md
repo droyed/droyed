@@ -56,9 +56,7 @@
 
 ### Stackoverflow tags
 
-<img align="left" alt="Stackoverflow tags" width="1500px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/so_tagcloud3.png" />
-<br />
-<br />
+<img align="left" alt="Stackoverflow tags" width="1500px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/so_tagcloud.png" />
 
 ### Github stats and languages
 
