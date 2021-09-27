@@ -58,7 +58,7 @@
 
 #### Stackoverflow tags
 
-<img align="left" alt="Ubuntu" height="32px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/so_tagcloud.png" />
+<img align="left" alt="Ubuntu" width="500px" src="https://raw.githubusercontent.com/droyed/droyed/master/icons/so_tagcloud.png" />
 
 
 
