@@ -1,6 +1,6 @@
 ### Hi there, I'm Divakar Roy - aka [d-roy-ed][website] 👋
 
-### Connect with me
+### Connect with me - [<img align="left" alt="droyed | LinkedIn" width="32px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
 
 [<img align="left" alt="droyed" width="32px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][website]
 [<img align="left" alt="droyed | LinkedIn" width="32px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
