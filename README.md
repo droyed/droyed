@@ -1,4 +1,4 @@
-### I'm Divakar Roy [d-roy-ed][website] 👋
+### I'm Divakar Roy - [d-roy-ed][website] 👋
 
 ### Connect with me
 
